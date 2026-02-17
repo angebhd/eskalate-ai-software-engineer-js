@@ -1,0 +1,24 @@
+{
+  "name": "ai-software-engineer-assignment-ts",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angebhd/eskalate-ai-software-engineer-js.git"
+  },
+  "author": "Ange Buhendwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angebhd/eskalate-ai-software-engineer-js/issues"
+  },
+  "homepage": "https://github.com/angebhd/eskalate-ai-software-engineer-js#readme",
+  "devDependencies": {
+    "vitest": "4.0.18"
+  }
+}
